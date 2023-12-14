@@ -1,0 +1,9 @@
+ultralytics
+opencv-python
+easyocr
+mysql-connector-python
+streamlit
+pandas
+socket
+streamlit-option-menu
+Pillow
